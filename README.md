@@ -1,6 +1,5 @@
+<img src = "images/code.gif" width = "600" />
 <h1 align="center">Hi 👋, I'm Bao</h1>
-
-<img src = "images/code.gif" width = "500" />
 
 - 🌱 I’m currently learning **at TDTU**
 
