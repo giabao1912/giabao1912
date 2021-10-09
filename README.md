@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
 
+<img src = "images/code.gif" width = "500" />
 
 - 🌱 I’m currently learning **at TDTU**
 
@@ -9,7 +10,7 @@
 
 - ⚡ I’m interested in **play game with my friend or read a book**
 
-<img src = "images/code.gif" width = "500" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/profile.php?id=100036930646078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036930646078" height="30" width="40" /></a>
