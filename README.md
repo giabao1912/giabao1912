@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at TDTU**
 
-- 💬 Ask me about **Matlab, java and C**
+- 💬 Ask me about **Matlab, Java and C**
 
 - 📫 How to reach me **tlgiabao1912@gmai.com**
 
