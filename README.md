@@ -1,4 +1,4 @@
-<img src = "images/code.gif" width = "750" />
+<img src = "images/code.gif" width = "850" />
 <h1 align="center">Hi 👋, I'm Bao</h1>
 
 - 🌱 I’m currently learning **at TDTU**
