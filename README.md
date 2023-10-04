@@ -8,7 +8,8 @@
 - 📫 How to reach me **tlgiabao1912@gmai.com**
 
 - ⚡ I’m interested in **play game with my friend or read a book**
-[![wakatime](https://wakatime.com/badge/user/f5fd3762-89c2-4c32-8218-bb2b6d7ef490.svg)](https://wakatime.com/@f5fd3762-89c2-4c32-8218-bb2b6d7ef490)
+
+- [![wakatime](https://wakatime.com/badge/user/f5fd3762-89c2-4c32-8218-bb2b6d7ef490.svg)](https://wakatime.com/@f5fd3762-89c2-4c32-8218-bb2b6d7ef490)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
