@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Matlab, Java and C**
 
-- 📫 How to reach me **tlgiabao1912@gmai.com**
+- 📫 How to reach me **tlgiabao1912@gmail.com**
 
 - ⚡ I’m interested in **play game with my friend or read a book**
 
@@ -20,4 +20,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao1912&show_icons=true&locale=en&layout=compact" alt="giabao1912" /></p>
+
 <img src = "images/code2.gif" width = "1200" />
